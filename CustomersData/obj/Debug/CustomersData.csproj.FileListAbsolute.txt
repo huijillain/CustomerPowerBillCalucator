@@ -1,0 +1,14 @@
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\CustomersData\obj\Debug\CustomersData.csprojAssemblyReference.cache
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\CustomersData\obj\Debug\CustomersData.csproj.CoreCompileInputs.cache
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\Crystal L CPRG Lab 2\CustomersData\obj\Debug\CustomersData.csprojAssemblyReference.cache
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\Crystal L CPRG Lab 2\CustomersData\obj\Debug\CustomersData.csproj.CoreCompileInputs.cache
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\Crystal L CPRG Lab 2\CustomersData\bin\Debug\CustomersData.dll
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\Crystal L CPRG Lab 2\CustomersData\bin\Debug\CustomersData.pdb
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\Crystal L CPRG Lab 2\CustomersData\obj\Debug\CustomersData.dll
+C:\Users\cpark\OneDrive\Desktop\TECHCareers\CPRG 200\Assignments\Crystal L CPRG Lab 2\CustomersData\obj\Debug\CustomersData.pdb
+C:\Users\mabservi\Desktop\Crystal L CPRG Lab 2\CustomersData\bin\Debug\CustomersData.dll
+C:\Users\mabservi\Desktop\Crystal L CPRG Lab 2\CustomersData\bin\Debug\CustomersData.pdb
+C:\Users\mabservi\Desktop\Crystal L CPRG Lab 2\CustomersData\obj\Debug\CustomersData.csprojAssemblyReference.cache
+C:\Users\mabservi\Desktop\Crystal L CPRG Lab 2\CustomersData\obj\Debug\CustomersData.csproj.CoreCompileInputs.cache
+C:\Users\mabservi\Desktop\Crystal L CPRG Lab 2\CustomersData\obj\Debug\CustomersData.dll
+C:\Users\mabservi\Desktop\Crystal L CPRG Lab 2\CustomersData\obj\Debug\CustomersData.pdb
